@@ -1,0 +1,4 @@
+**/daltic-engine/
+**/target/
+**/.venv/
+**/__pycache__/
